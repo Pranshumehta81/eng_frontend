@@ -124,10 +124,6 @@ so This is a site of imporvement in my project.
 > ## Screenshots 
 * Home Page 
 ![Home Page](public/images/home.png)
-* Missing People List
-![Missing People List](public/images/Missingpeoplelist.png)
-*  MY COMPLAINS
-![MY COMPLAINS](public/images/mycomplain.png)
 *  Fuzzy Search
 ![Fuzzy Search](public/images/Fuzzysearch.png)
 *  Map Features
